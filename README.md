@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=125&width=435&lines=Hi%2C+I'm+Solarite.;I+make+things.;I+fork%2Fclone+repos+and+fix+them+to+my+own+liking.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=250&width=435&lines=Solarite;Amateur+Roblox+Game+Developer+and+Item+Asylum+player)](https://git.io/typing-svg)
 
 hi
 
